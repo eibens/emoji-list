@@ -28,6 +28,14 @@ The list is a JSON array of objects, each with a `category`, `subcategory`, `nam
 ]
 ```
 
+## npm
+
+You can get the list from npm:
+
+    npm install @eibens/emoji-list
+
+The emoji list object is the default export of the package:
+
 ## Do it yourself
 
 You can export the list yourself, if you wish. The steps were tested and work in newest Firefox and Google Chrome:
