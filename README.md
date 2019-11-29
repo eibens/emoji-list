@@ -36,6 +36,12 @@ You can get the list from npm:
 
 The emoji list object is the default export of the package:
 
+```JavaScript
+import emojiList from '@eibens/emoji-list'
+
+emojiList.forEach(emoji => console.log(emoji.name))
+```
+
 ## Do it yourself
 
 You can export the list yourself, if you wish. The steps were tested and work in newest Firefox and Google Chrome:
