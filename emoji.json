@@ -169,6 +169,14 @@
   },
   {
     "category": "Smileys & Emotion",
+    "subcategory": "face-affection",
+    "name": "smiling face with tear",
+    "codes": [
+      "1F972"
+    ]
+  },
+  {
+    "category": "Smileys & Emotion",
     "subcategory": "face-tongue",
     "name": "face savoring food",
     "codes": [
@@ -469,6 +477,14 @@
     "name": "partying face",
     "codes": [
       "1F973"
+    ]
+  },
+  {
+    "category": "Smileys & Emotion",
+    "subcategory": "face-hat",
+    "name": "disguised face",
+    "codes": [
+      "1F978"
     ]
   },
   {
@@ -1246,6 +1262,14 @@
   {
     "category": "People & Body",
     "subcategory": "hand-fingers-partial",
+    "name": "pinched fingers",
+    "codes": [
+      "1F90C"
+    ]
+  },
+  {
+    "category": "People & Body",
+    "subcategory": "hand-fingers-partial",
     "name": "pinching hand",
     "codes": [
       "1F90F"
@@ -1529,6 +1553,22 @@
     "name": "brain",
     "codes": [
       "1F9E0"
+    ]
+  },
+  {
+    "category": "People & Body",
+    "subcategory": "body-parts",
+    "name": "anatomical heart",
+    "codes": [
+      "1FAC0"
+    ]
+  },
+  {
+    "category": "People & Body",
+    "subcategory": "body-parts",
+    "name": "lungs",
+    "codes": [
+      "1FAC1"
     ]
   },
   {
@@ -2701,6 +2741,14 @@
   {
     "category": "People & Body",
     "subcategory": "person-role",
+    "name": "ninja",
+    "codes": [
+      "1F977"
+    ]
+  },
+  {
+    "category": "People & Body",
+    "subcategory": "person-role",
     "name": "construction worker",
     "codes": [
       "1F477"
@@ -2777,7 +2825,7 @@
   {
     "category": "People & Body",
     "subcategory": "person-role",
-    "name": "man with skullcap",
+    "name": "person with skullcap",
     "codes": [
       "1F472"
     ]
@@ -2793,7 +2841,7 @@
   {
     "category": "People & Body",
     "subcategory": "person-role",
-    "name": "man in tuxedo",
+    "name": "person in tuxedo",
     "codes": [
       "1F935"
     ]
@@ -2801,9 +2849,53 @@
   {
     "category": "People & Body",
     "subcategory": "person-role",
-    "name": "bride with veil",
+    "name": "man in tuxedo",
+    "codes": [
+      "1F935",
+      "200D",
+      "2642",
+      "FE0F"
+    ]
+  },
+  {
+    "category": "People & Body",
+    "subcategory": "person-role",
+    "name": "woman in tuxedo",
+    "codes": [
+      "1F935",
+      "200D",
+      "2640",
+      "FE0F"
+    ]
+  },
+  {
+    "category": "People & Body",
+    "subcategory": "person-role",
+    "name": "person with veil",
     "codes": [
       "1F470"
+    ]
+  },
+  {
+    "category": "People & Body",
+    "subcategory": "person-role",
+    "name": "man with veil",
+    "codes": [
+      "1F470",
+      "200D",
+      "2642",
+      "FE0F"
+    ]
+  },
+  {
+    "category": "People & Body",
+    "subcategory": "person-role",
+    "name": "woman with veil",
+    "codes": [
+      "1F470",
+      "200D",
+      "2640",
+      "FE0F"
     ]
   },
   {
@@ -2820,6 +2912,36 @@
     "name": "breast-feeding",
     "codes": [
       "1F931"
+    ]
+  },
+  {
+    "category": "People & Body",
+    "subcategory": "person-role",
+    "name": "woman feeding baby",
+    "codes": [
+      "1F469",
+      "200D",
+      "1F37C"
+    ]
+  },
+  {
+    "category": "People & Body",
+    "subcategory": "person-role",
+    "name": "man feeding baby",
+    "codes": [
+      "1F468",
+      "200D",
+      "1F37C"
+    ]
+  },
+  {
+    "category": "People & Body",
+    "subcategory": "person-role",
+    "name": "person feeding baby",
+    "codes": [
+      "1F9D1",
+      "200D",
+      "1F37C"
     ]
   },
   {
@@ -2844,6 +2966,16 @@
     "name": "Mrs. Claus",
     "codes": [
       "1F936"
+    ]
+  },
+  {
+    "category": "People & Body",
+    "subcategory": "person-fantasy",
+    "name": "mx claus",
+    "codes": [
+      "1F9D1",
+      "200D",
+      "1F384"
     ]
   },
   {
@@ -3269,7 +3401,7 @@
   {
     "category": "People & Body",
     "subcategory": "person-activity",
-    "name": "person with probing cane",
+    "name": "person with white cane",
     "codes": [
       "1F9D1",
       "200D",
@@ -3279,7 +3411,7 @@
   {
     "category": "People & Body",
     "subcategory": "person-activity",
-    "name": "man with probing cane",
+    "name": "man with white cane",
     "codes": [
       "1F468",
       "200D",
@@ -3289,7 +3421,7 @@
   {
     "category": "People & Body",
     "subcategory": "person-activity",
-    "name": "woman with probing cane",
+    "name": "woman with white cane",
     "codes": [
       "1F469",
       "200D",
@@ -3405,7 +3537,7 @@
   {
     "category": "People & Body",
     "subcategory": "person-activity",
-    "name": "man in suit levitating",
+    "name": "person in suit levitating",
     "codes": [
       "1F574"
     ]
@@ -4455,6 +4587,14 @@
   {
     "category": "People & Body",
     "subcategory": "person-symbol",
+    "name": "people hugging",
+    "codes": [
+      "1FAC2"
+    ]
+  },
+  {
+    "category": "People & Body",
+    "subcategory": "person-symbol",
     "name": "footprints",
     "codes": [
       "1F463"
@@ -4609,6 +4749,16 @@
   {
     "category": "Animals & Nature",
     "subcategory": "animal-mammal",
+    "name": "black cat",
+    "codes": [
+      "1F408",
+      "200D",
+      "2B1B"
+    ]
+  },
+  {
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal",
     "name": "lion",
     "codes": [
       "1F981"
@@ -4676,6 +4826,14 @@
     "name": "deer",
     "codes": [
       "1F98C"
+    ]
+  },
+  {
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal",
+    "name": "bison",
+    "codes": [
+      "1F9AC"
     ]
   },
   {
@@ -4809,6 +4967,14 @@
   {
     "category": "Animals & Nature",
     "subcategory": "animal-mammal",
+    "name": "mammoth",
+    "codes": [
+      "1F9A3"
+    ]
+  },
+  {
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal",
     "name": "rhinoceros",
     "codes": [
       "1F98F"
@@ -4881,6 +5047,14 @@
   {
     "category": "Animals & Nature",
     "subcategory": "animal-mammal",
+    "name": "beaver",
+    "codes": [
+      "1F9AB"
+    ]
+  },
+  {
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal",
     "name": "hedgehog",
     "codes": [
       "1F994"
@@ -4900,6 +5074,17 @@
     "name": "bear",
     "codes": [
       "1F43B"
+    ]
+  },
+  {
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal",
+    "name": "polar bear",
+    "codes": [
+      "1F43B",
+      "200D",
+      "2744",
+      "FE0F"
     ]
   },
   {
@@ -5073,6 +5258,22 @@
   {
     "category": "Animals & Nature",
     "subcategory": "animal-bird",
+    "name": "dodo",
+    "codes": [
+      "1F9A4"
+    ]
+  },
+  {
+    "category": "Animals & Nature",
+    "subcategory": "animal-bird",
+    "name": "feather",
+    "codes": [
+      "1FAB6"
+    ]
+  },
+  {
+    "category": "Animals & Nature",
+    "subcategory": "animal-bird",
     "name": "flamingo",
     "codes": [
       "1F9A9"
@@ -5193,6 +5394,14 @@
   {
     "category": "Animals & Nature",
     "subcategory": "animal-marine",
+    "name": "seal",
+    "codes": [
+      "1F9AD"
+    ]
+  },
+  {
+    "category": "Animals & Nature",
+    "subcategory": "animal-marine",
     "name": "fish",
     "codes": [
       "1F41F"
@@ -5281,6 +5490,14 @@
   {
     "category": "Animals & Nature",
     "subcategory": "animal-bug",
+    "name": "beetle",
+    "codes": [
+      "1FAB2"
+    ]
+  },
+  {
+    "category": "Animals & Nature",
+    "subcategory": "animal-bug",
     "name": "lady beetle",
     "codes": [
       "1F41E"
@@ -5292,6 +5509,14 @@
     "name": "cricket",
     "codes": [
       "1F997"
+    ]
+  },
+  {
+    "category": "Animals & Nature",
+    "subcategory": "animal-bug",
+    "name": "cockroach",
+    "codes": [
+      "1FAB3"
     ]
   },
   {
@@ -5324,6 +5549,22 @@
     "name": "mosquito",
     "codes": [
       "1F99F"
+    ]
+  },
+  {
+    "category": "Animals & Nature",
+    "subcategory": "animal-bug",
+    "name": "fly",
+    "codes": [
+      "1FAB0"
+    ]
+  },
+  {
+    "category": "Animals & Nature",
+    "subcategory": "animal-bug",
+    "name": "worm",
+    "codes": [
+      "1FAB1"
     ]
   },
   {
@@ -5420,6 +5661,14 @@
     "name": "seedling",
     "codes": [
       "1F331"
+    ]
+  },
+  {
+    "category": "Animals & Nature",
+    "subcategory": "plant-other",
+    "name": "potted plant",
+    "codes": [
+      "1FAB4"
     ]
   },
   {
@@ -5625,6 +5874,14 @@
   {
     "category": "Food & Drink",
     "subcategory": "food-fruit",
+    "name": "blueberries",
+    "codes": [
+      "1FAD0"
+    ]
+  },
+  {
+    "category": "Food & Drink",
+    "subcategory": "food-fruit",
     "name": "kiwi fruit",
     "codes": [
       "1F95D"
@@ -5636,6 +5893,14 @@
     "name": "tomato",
     "codes": [
       "1F345"
+    ]
+  },
+  {
+    "category": "Food & Drink",
+    "subcategory": "food-fruit",
+    "name": "olive",
+    "codes": [
+      "1FAD2"
     ]
   },
   {
@@ -5692,6 +5957,14 @@
     "name": "hot pepper",
     "codes": [
       "1F336"
+    ]
+  },
+  {
+    "category": "Food & Drink",
+    "subcategory": "food-vegetable",
+    "name": "bell pepper",
+    "codes": [
+      "1FAD1"
     ]
   },
   {
@@ -5780,6 +6053,14 @@
     "name": "baguette bread",
     "codes": [
       "1F956"
+    ]
+  },
+  {
+    "category": "Food & Drink",
+    "subcategory": "food-prepared",
+    "name": "flatbread",
+    "codes": [
+      "1FAD3"
     ]
   },
   {
@@ -5913,6 +6194,14 @@
   {
     "category": "Food & Drink",
     "subcategory": "food-prepared",
+    "name": "tamale",
+    "codes": [
+      "1FAD4"
+    ]
+  },
+  {
+    "category": "Food & Drink",
+    "subcategory": "food-prepared",
     "name": "stuffed flatbread",
     "codes": [
       "1F959"
@@ -5956,6 +6245,14 @@
     "name": "pot of food",
     "codes": [
       "1F372"
+    ]
+  },
+  {
+    "category": "Food & Drink",
+    "subcategory": "food-prepared",
+    "name": "fondue",
+    "codes": [
+      "1FAD5"
     ]
   },
   {
@@ -6321,6 +6618,14 @@
   {
     "category": "Food & Drink",
     "subcategory": "drink",
+    "name": "teapot",
+    "codes": [
+      "1FAD6"
+    ]
+  },
+  {
+    "category": "Food & Drink",
+    "subcategory": "drink",
     "name": "teacup without handle",
     "codes": [
       "1F375"
@@ -6404,6 +6709,14 @@
     "name": "cup with straw",
     "codes": [
       "1F964"
+    ]
+  },
+  {
+    "category": "Food & Drink",
+    "subcategory": "drink",
+    "name": "bubble tea",
+    "codes": [
+      "1F9CB"
     ]
   },
   {
@@ -6636,6 +6949,30 @@
     "name": "brick",
     "codes": [
       "1F9F1"
+    ]
+  },
+  {
+    "category": "Travel & Places",
+    "subcategory": "place-building",
+    "name": "rock",
+    "codes": [
+      "1FAA8"
+    ]
+  },
+  {
+    "category": "Travel & Places",
+    "subcategory": "place-building",
+    "name": "wood",
+    "codes": [
+      "1FAB5"
+    ]
+  },
+  {
+    "category": "Travel & Places",
+    "subcategory": "place-building",
+    "name": "hut",
+    "codes": [
+      "1F6D6"
     ]
   },
   {
@@ -7177,6 +7514,14 @@
   {
     "category": "Travel & Places",
     "subcategory": "transport-ground",
+    "name": "pickup truck",
+    "codes": [
+      "1F6FB"
+    ]
+  },
+  {
+    "category": "Travel & Places",
+    "subcategory": "transport-ground",
     "name": "delivery truck",
     "codes": [
       "1F69A"
@@ -7268,6 +7613,14 @@
     "name": "skateboard",
     "codes": [
       "1F6F9"
+    ]
+  },
+  {
+    "category": "Travel & Places",
+    "subcategory": "transport-ground",
+    "name": "roller skate",
+    "codes": [
+      "1F6FC"
     ]
   },
   {
@@ -8633,6 +8986,14 @@
   {
     "category": "Activities",
     "subcategory": "game",
+    "name": "magic wand",
+    "codes": [
+      "1FA84"
+    ]
+  },
+  {
+    "category": "Activities",
+    "subcategory": "game",
     "name": "nazar amulet",
     "codes": [
       "1F9FF"
@@ -8684,6 +9045,22 @@
     "name": "teddy bear",
     "codes": [
       "1F9F8"
+    ]
+  },
+  {
+    "category": "Activities",
+    "subcategory": "game",
+    "name": "piñata",
+    "codes": [
+      "1FA85"
+    ]
+  },
+  {
+    "category": "Activities",
+    "subcategory": "game",
+    "name": "nesting dolls",
+    "codes": [
+      "1FA86"
     ]
   },
   {
@@ -8785,9 +9162,25 @@
   {
     "category": "Activities",
     "subcategory": "arts & crafts",
+    "name": "sewing needle",
+    "codes": [
+      "1FAA1"
+    ]
+  },
+  {
+    "category": "Activities",
+    "subcategory": "arts & crafts",
     "name": "yarn",
     "codes": [
       "1F9F6"
+    ]
+  },
+  {
+    "category": "Activities",
+    "subcategory": "arts & crafts",
+    "name": "knot",
+    "codes": [
+      "1FAA2"
     ]
   },
   {
@@ -8993,6 +9386,14 @@
   {
     "category": "Objects",
     "subcategory": "clothing",
+    "name": "thong sandal",
+    "codes": [
+      "1FA74"
+    ]
+  },
+  {
+    "category": "Objects",
+    "subcategory": "clothing",
     "name": "man’s shoe",
     "codes": [
       "1F45E"
@@ -9092,6 +9493,14 @@
     "name": "billed cap",
     "codes": [
       "1F9E2"
+    ]
+  },
+  {
+    "category": "Objects",
+    "subcategory": "clothing",
+    "name": "military helmet",
+    "codes": [
+      "1FA96"
     ]
   },
   {
@@ -9289,6 +9698,14 @@
   {
     "category": "Objects",
     "subcategory": "musical-instrument",
+    "name": "accordion",
+    "codes": [
+      "1FA97"
+    ]
+  },
+  {
+    "category": "Objects",
+    "subcategory": "musical-instrument",
     "name": "guitar",
     "codes": [
       "1F3B8"
@@ -9332,6 +9749,14 @@
     "name": "drum",
     "codes": [
       "1F941"
+    ]
+  },
+  {
+    "category": "Objects",
+    "subcategory": "musical-instrument",
+    "name": "long drum",
+    "codes": [
+      "1FA98"
     ]
   },
   {
@@ -9761,6 +10186,14 @@
   {
     "category": "Objects",
     "subcategory": "money",
+    "name": "coin",
+    "codes": [
+      "1FA99"
+    ]
+  },
+  {
+    "category": "Objects",
+    "subcategory": "money",
     "name": "yen banknote",
     "codes": [
       "1F4B4"
@@ -9820,22 +10253,6 @@
     "name": "chart increasing with yen",
     "codes": [
       "1F4B9"
-    ]
-  },
-  {
-    "category": "Objects",
-    "subcategory": "money",
-    "name": "currency exchange",
-    "codes": [
-      "1F4B1"
-    ]
-  },
-  {
-    "category": "Objects",
-    "subcategory": "money",
-    "name": "heavy dollar sign",
-    "codes": [
-      "1F4B2"
     ]
   },
   {
@@ -10297,6 +10714,14 @@
   {
     "category": "Objects",
     "subcategory": "tool",
+    "name": "boomerang",
+    "codes": [
+      "1FA83"
+    ]
+  },
+  {
+    "category": "Objects",
+    "subcategory": "tool",
     "name": "bow and arrow",
     "codes": [
       "1F3F9"
@@ -10313,9 +10738,25 @@
   {
     "category": "Objects",
     "subcategory": "tool",
+    "name": "carpentry saw",
+    "codes": [
+      "1FA9A"
+    ]
+  },
+  {
+    "category": "Objects",
+    "subcategory": "tool",
     "name": "wrench",
     "codes": [
       "1F527"
+    ]
+  },
+  {
+    "category": "Objects",
+    "subcategory": "tool",
+    "name": "screwdriver",
+    "codes": [
+      "1FA9B"
     ]
   },
   {
@@ -10353,7 +10794,7 @@
   {
     "category": "Objects",
     "subcategory": "tool",
-    "name": "probing cane",
+    "name": "white cane",
     "codes": [
       "1F9AF"
     ]
@@ -10377,6 +10818,14 @@
   {
     "category": "Objects",
     "subcategory": "tool",
+    "name": "hook",
+    "codes": [
+      "1FA9D"
+    ]
+  },
+  {
+    "category": "Objects",
+    "subcategory": "tool",
     "name": "toolbox",
     "codes": [
       "1F9F0"
@@ -10388,6 +10837,14 @@
     "name": "magnet",
     "codes": [
       "1F9F2"
+    ]
+  },
+  {
+    "category": "Objects",
+    "subcategory": "tool",
+    "name": "ladder",
+    "codes": [
+      "1FA9C"
     ]
   },
   {
@@ -10497,6 +10954,30 @@
   {
     "category": "Objects",
     "subcategory": "household",
+    "name": "elevator",
+    "codes": [
+      "1F6D7"
+    ]
+  },
+  {
+    "category": "Objects",
+    "subcategory": "household",
+    "name": "mirror",
+    "codes": [
+      "1FA9E"
+    ]
+  },
+  {
+    "category": "Objects",
+    "subcategory": "household",
+    "name": "window",
+    "codes": [
+      "1FA9F"
+    ]
+  },
+  {
+    "category": "Objects",
+    "subcategory": "household",
     "name": "bed",
     "codes": [
       "1F6CF"
@@ -10529,6 +11010,14 @@
   {
     "category": "Objects",
     "subcategory": "household",
+    "name": "plunger",
+    "codes": [
+      "1FAA0"
+    ]
+  },
+  {
+    "category": "Objects",
+    "subcategory": "household",
     "name": "shower",
     "codes": [
       "1F6BF"
@@ -10540,6 +11029,14 @@
     "name": "bathtub",
     "codes": [
       "1F6C1"
+    ]
+  },
+  {
+    "category": "Objects",
+    "subcategory": "household",
+    "name": "mouse trap",
+    "codes": [
+      "1FAA4"
     ]
   },
   {
@@ -10593,9 +11090,25 @@
   {
     "category": "Objects",
     "subcategory": "household",
+    "name": "bucket",
+    "codes": [
+      "1FAA3"
+    ]
+  },
+  {
+    "category": "Objects",
+    "subcategory": "household",
     "name": "soap",
     "codes": [
       "1F9FC"
+    ]
+  },
+  {
+    "category": "Objects",
+    "subcategory": "household",
+    "name": "toothbrush",
+    "codes": [
+      "1FAA5"
     ]
   },
   {
@@ -10641,6 +11154,14 @@
   {
     "category": "Objects",
     "subcategory": "other-object",
+    "name": "headstone",
+    "codes": [
+      "1FAA6"
+    ]
+  },
+  {
+    "category": "Objects",
+    "subcategory": "other-object",
     "name": "funeral urn",
     "codes": [
       "26B1"
@@ -10652,6 +11173,14 @@
     "name": "moai",
     "codes": [
       "1F5FF"
+    ]
+  },
+  {
+    "category": "Objects",
+    "subcategory": "other-object",
+    "name": "placard",
+    "codes": [
+      "1FAA7"
     ]
   },
   {
@@ -11440,18 +11969,130 @@
   },
   {
     "category": "Symbols",
-    "subcategory": "other-symbol",
-    "name": "medical symbol",
+    "subcategory": "gender",
+    "name": "transgender symbol",
     "codes": [
-      "2695"
+      "26A7"
+    ]
+  },
+  {
+    "category": "Symbols",
+    "subcategory": "math",
+    "name": "multiply",
+    "codes": [
+      "2716"
+    ]
+  },
+  {
+    "category": "Symbols",
+    "subcategory": "math",
+    "name": "plus",
+    "codes": [
+      "2795"
+    ]
+  },
+  {
+    "category": "Symbols",
+    "subcategory": "math",
+    "name": "minus",
+    "codes": [
+      "2796"
+    ]
+  },
+  {
+    "category": "Symbols",
+    "subcategory": "math",
+    "name": "divide",
+    "codes": [
+      "2797"
+    ]
+  },
+  {
+    "category": "Symbols",
+    "subcategory": "math",
+    "name": "infinity",
+    "codes": [
+      "267E"
+    ]
+  },
+  {
+    "category": "Symbols",
+    "subcategory": "punctuation",
+    "name": "double exclamation mark",
+    "codes": [
+      "203C"
+    ]
+  },
+  {
+    "category": "Symbols",
+    "subcategory": "punctuation",
+    "name": "exclamation question mark",
+    "codes": [
+      "2049"
+    ]
+  },
+  {
+    "category": "Symbols",
+    "subcategory": "punctuation",
+    "name": "question mark",
+    "codes": [
+      "2753"
+    ]
+  },
+  {
+    "category": "Symbols",
+    "subcategory": "punctuation",
+    "name": "white question mark",
+    "codes": [
+      "2754"
+    ]
+  },
+  {
+    "category": "Symbols",
+    "subcategory": "punctuation",
+    "name": "white exclamation mark",
+    "codes": [
+      "2755"
+    ]
+  },
+  {
+    "category": "Symbols",
+    "subcategory": "punctuation",
+    "name": "exclamation mark",
+    "codes": [
+      "2757"
+    ]
+  },
+  {
+    "category": "Symbols",
+    "subcategory": "punctuation",
+    "name": "wavy dash",
+    "codes": [
+      "3030"
+    ]
+  },
+  {
+    "category": "Symbols",
+    "subcategory": "currency",
+    "name": "currency exchange",
+    "codes": [
+      "1F4B1"
+    ]
+  },
+  {
+    "category": "Symbols",
+    "subcategory": "currency",
+    "name": "heavy dollar sign",
+    "codes": [
+      "1F4B2"
     ]
   },
   {
     "category": "Symbols",
     "subcategory": "other-symbol",
-    "name": "infinity",
+    "name": "medical symbol",
     "codes": [
-      "267E"
+      "2695"
     ]
   },
   {
@@ -11529,14 +12170,6 @@
   {
     "category": "Symbols",
     "subcategory": "other-symbol",
-    "name": "multiplication sign",
-    "codes": [
-      "2716"
-    ]
-  },
-  {
-    "category": "Symbols",
-    "subcategory": "other-symbol",
     "name": "cross mark",
     "codes": [
       "274C"
@@ -11548,30 +12181,6 @@
     "name": "cross mark button",
     "codes": [
       "274E"
-    ]
-  },
-  {
-    "category": "Symbols",
-    "subcategory": "other-symbol",
-    "name": "plus sign",
-    "codes": [
-      "2795"
-    ]
-  },
-  {
-    "category": "Symbols",
-    "subcategory": "other-symbol",
-    "name": "minus sign",
-    "codes": [
-      "2796"
-    ]
-  },
-  {
-    "category": "Symbols",
-    "subcategory": "other-symbol",
-    "name": "division sign",
-    "codes": [
-      "2797"
     ]
   },
   {
@@ -11620,62 +12229,6 @@
     "name": "sparkle",
     "codes": [
       "2747"
-    ]
-  },
-  {
-    "category": "Symbols",
-    "subcategory": "other-symbol",
-    "name": "double exclamation mark",
-    "codes": [
-      "203C"
-    ]
-  },
-  {
-    "category": "Symbols",
-    "subcategory": "other-symbol",
-    "name": "exclamation question mark",
-    "codes": [
-      "2049"
-    ]
-  },
-  {
-    "category": "Symbols",
-    "subcategory": "other-symbol",
-    "name": "question mark",
-    "codes": [
-      "2753"
-    ]
-  },
-  {
-    "category": "Symbols",
-    "subcategory": "other-symbol",
-    "name": "white question mark",
-    "codes": [
-      "2754"
-    ]
-  },
-  {
-    "category": "Symbols",
-    "subcategory": "other-symbol",
-    "name": "white exclamation mark",
-    "codes": [
-      "2755"
-    ]
-  },
-  {
-    "category": "Symbols",
-    "subcategory": "other-symbol",
-    "name": "exclamation mark",
-    "codes": [
-      "2757"
-    ]
-  },
-  {
-    "category": "Symbols",
-    "subcategory": "other-symbol",
-    "name": "wavy dash",
-    "codes": [
-      "3030"
     ]
   },
   {
@@ -12463,6 +13016,18 @@
       "FE0F",
       "200D",
       "1F308"
+    ]
+  },
+  {
+    "category": "Flags",
+    "subcategory": "flag",
+    "name": "transgender flag",
+    "codes": [
+      "1F3F3",
+      "FE0F",
+      "200D",
+      "26A7",
+      "FE0F"
     ]
   },
   {
